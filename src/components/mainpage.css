@@ -1,0 +1,23 @@
+
+.image-div{
+    text-align: center;
+    margin: 20px;
+}
+
+.grid-image{
+    width: 38rem;
+}
+
+.text-div{
+    margin-left: 5rem;
+}
+
+.text-div p{
+    width: 40%;
+}
+
+.card-view-div{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
